@@ -14,9 +14,8 @@ Eu utilizo o Pomodoro para concentração de foco, e também o Clockify para ger
 Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e abaixo está o meu baralho/desk com a estatísticas para este bootcamp.
 [colocar print das telas aqui]
 
-## Ferramentas que utilizei para o Bootcamp
+## Ferramentas que utilizo para o Bootcamp
 - Visual Studio Code
-- Jupyter Notebook
 - MySQL
 - Power BI
 
@@ -32,21 +31,21 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 - Nível: Básico
 - Data de Conclusão: 21/08/2023 
 - Observações: ***
-- [ ] [Curso] Versionamento de Código com Git e GitHub
+- [X] [Curso] Versionamento de Código com Git e GitHub
 - Carga horária: 2 horas
 - Nível: Básico 
-- Data de Conclusão: 
+- Data de Conclusão: 24/08/2023 
 - Observações: ***
-- [ ] [Curso] Desafios de Projetos: Crie Um Portfólio Vencedor
+- [X] [Curso] Desafios de Projetos: Crie Um Portfólio Vencedor
 - Carga horária: 1 horas
 - Nível: Básico
-- Data de Conclusão: 
+- Data de Conclusão: 24/08/2023
 - Observações: ***
-- [ ] [Desafio de Projeto] Contribuindo em um Projeto Open Source no GitHub
+- [X] [Desafio de Projeto] Contribuindo em um Projeto Open Source no GitHub
 - Carga horária: 1 hora
 - Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
+- Data de Conclusão: 24/08/2023 
+- Observações: https://github.com/LuisOTSG/dio-lab-open-source
 - [ ] [Live] Aula Inaugural - Santander Bootcamps 2023
 - Carga horária: 2 horas
 - Nível: NA
