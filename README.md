@@ -46,7 +46,7 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 - Nível: Básico
 - Data de Conclusão: 24/08/2023 
 - Observações: https://github.com/LuisOTSG/dio-lab-open-source
-- [ ] [Live] Aula Inaugural - Santander Bootcamps 2023
+- [X] [Live] Aula Inaugural - Santander Bootcamps 2023
 - Carga horária: 2 horas
 - Nível: NA
 - Data de Conclusão: 17/08/2023
@@ -102,48 +102,48 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 - Nível: Intermediário
 - Data de Conclusão: 
 - Observações: ***
-- [ ] [Desafio de Projeto] Explorando IA Generativa em um Pipeline de ETL com Python
+- [X] [Desafio de Projeto] Explorando IA Generativa em um Pipeline de ETL com Python
 - Carga horária: 2 horas
 - Nível: Avançado
-- Data de Conclusão: 
-- Observações: ***
+- Data de Conclusão: 25/08/2023
+- Observações: [Projeto-Pipeline-IA-Generativa](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/01_Introducao-a-Ci%C3%AAncia-de-Dados-e-Python/Santander_Bootcamp.ipynb)
 ### Resolvendo Seus Primeiros Desafios de Código
-- [ ] [Curso] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
+- [X] [Curso] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
 - Carga horária: 1 hora
 - Nível: Básico
-- Data de Conclusão: 
+- Data de Conclusão: 25/08/2023
 - Observações: ***
-- [ ] [Desafio de Código] Desafio Python: Equilibrando Saldo
+- [X] [Desafio de Código] Desafio Python: Equilibrando Saldo
 - Carga horária: 1 hora
 - Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Desafio de Código] Desafio Python: Organizando seus Ativos
+- Data de Conclusão: 25/08/2023
+- Observações: [Desafios-Python-Equilibrando-Saldo.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-Equilibrando-Saldo.py)
+- [X] [Desafio de Código] Desafio Python: Organizando seus Ativos
 - Carga horária: 1 hora
 - Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Desafio de Código] Desafio Python: Condicional Rico
+- Data de Conclusão: 25/08/2023
+- Observações: [Desafios-Python-Organizando-Seus-Ativos.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Deasfios-Python-Organizando-Seus-Ativos.py)
+- [X] [Desafio de Código] Desafio Python: Condicional Rico
 - Carga horária: 1 hora
 - Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Desafio de Código] Desafio Python: Juros Compostos
+- Data de Conclusão: 25/08/2023
+- Observações: [Desafios-Python-Condicionalmente-Rico.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-Condicionalmente-Rico.py)
+- [X] [Desafio de Código] Desafio Python: Juros Compostos
 - Carga horária: 1 hora
 - Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Desafio de Código] Desafio Python: O Grande Depósito
+- Data de Conclusão: 25/08/2023
+- Observações: [Desafios-Python-Juros-Compostos.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-Juros-Compostos.py)
+- [X] [Desafio de Código] Desafio Python: O Grande Depósito
 - Carga horária: 1 hora
 - Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
+- Data de Conclusão: 25/08/2023
+- Observações: [Desafios-Python-O-Grande-Proposito.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-O-Grande-Proposito.py)
 ### Primeiros Passos em SQL e NoSQL
 - [ ] [Curso] Introdução a Banco de Dados Relacionais (SQL)
 - Carga horária: 3 horas
 - Nível: Intermediário
 - Data de Conclusão: 
-- Observações: ***
+- Observações: [Modelagem-Dados-Relacional](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Modelagem-Dados-Relacionais.sql) / [Normalizacao-Dados](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Normalizar-Dados.sql)
 - [ ] [Curso] Introdução a Banco de Dados NoSQL
 - Carga horária: 3 horas
 - Nível: Intermediário
