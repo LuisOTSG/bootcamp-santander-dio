@@ -143,7 +143,7 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 - Carga horária: 3 horas
 - Nível: Intermediário
 - Data de Conclusão: 03/09/2023
-- Observações: [Modelagem-Dados-Relacional](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Modelagem-Dados-Relacionais.sql) / [Normalizacao-Dados](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Normalizar-Dados.sql) / [Consultas-Avancadas](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Consultas-Avancadas.txt)
+- Observações: [Modelagem-Dados-Relacional](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Modelagem-Dados-Relacionais.sql) / [Normalizacao-Dados](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Normalizar-Dados.sql) / [Consultas-Avancadas](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Consultas-Avancadas.sql)
 - [ ] [Curso] Introdução a Banco de Dados NoSQL
 - Carga horária: 3 horas
 - Nível: Intermediário
