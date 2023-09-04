@@ -139,11 +139,11 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 - Data de Conclusão: 25/08/2023
 - Observações: [Desafios-Python-O-Grande-Proposito.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-O-Grande-Proposito.py)
 ### Primeiros Passos em SQL e NoSQL
-- [ ] [Curso] Introdução a Banco de Dados Relacionais (SQL)
+- [X] [Curso] Introdução a Banco de Dados Relacionais (SQL)
 - Carga horária: 3 horas
 - Nível: Intermediário
-- Data de Conclusão: 
-- Observações: [Modelagem-Dados-Relacional](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Modelagem-Dados-Relacionais.sql) / [Normalizacao-Dados](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Normalizar-Dados.sql)
+- Data de Conclusão: 03/09/2023
+- Observações: [Modelagem-Dados-Relacional](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Modelagem-Dados-Relacionais.sql) / [Normalizacao-Dados](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Normalizar-Dados.sql) / [Consultas-Avancadas](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Consultas-Avancadas.txt)
 - [ ] [Curso] Introdução a Banco de Dados NoSQL
 - Carga horária: 3 horas
 - Nível: Intermediário
