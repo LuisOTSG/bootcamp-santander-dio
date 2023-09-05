@@ -21,236 +21,72 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 
 ## Atividades
 ### Prepare-se Para a Jornada
-- [X] [Curso] Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 17/08/2023
-- Observações: ***
-- [X] [Curso] Organizando seus Estudos com os Roadmaps DIO e Notion
-- Carga horária: 2 horas
-- Nível: Básico
-- Data de Conclusão: 21/08/2023 
-- Observações: ***
-- [X] [Curso] Versionamento de Código com Git e GitHub
-- Carga horária: 2 horas
-- Nível: Básico 
-- Data de Conclusão: 24/08/2023 
-- Observações: ***
-- [X] [Curso] Desafios de Projetos: Crie Um Portfólio Vencedor
-- Carga horária: 1 horas
-- Nível: Básico
-- Data de Conclusão: 24/08/2023
-- Observações: ***
-- [X] [Desafio de Projeto] Contribuindo em um Projeto Open Source no GitHub
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 24/08/2023 
-- Observações: https://github.com/LuisOTSG/dio-lab-open-source
-- [X] [Live] Aula Inaugural - Santander Bootcamps 2023
-- Carga horária: 2 horas
-- Nível: NA
-- Data de Conclusão: 17/08/2023
-- Observações: ***
+|Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
+|---|---|---|---|---|---|
+|Curso|Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!|1 hora|Básico|17/08/2023|-|
+|Curso|Organizando seus Estudos com os Roadmaps DIO e Notion|2 horas|Básico|21/08/2023|-|
+|Curso|Versionamento de Código com Git e GitHub|2 horas|Básico|24/08/2023|-|
+|Curso|Desafios de Projetos: Crie Um Portfólio Vencedor|1 hora|Básico|24/08/2023|-|
+|Desafio de Projeto|Contribuindo em um Projeto Open Source no GitHub|1 hora|Básico|24/08/2023|-|
+|Live|Aula Inaugural - Santander Bootcamps 2023|2 horas|NA|17/08/2023|-|
+
 ### Introdução à Ciência de Dados e Python
-- [ ] [Curso] Ambiente de Desenvolvimento e Primeiros Passos com Python
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Conhecendo a Linguagem de Programação Python
-- Carga horária: 2 horas
-- Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Tipos de Operadores com Python
-- Carga horária: 2 horas
-- Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Estruturas Condicionais e de Repetição em Python
-- Carga horária: 2 horas
-- Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Manipulando Strings com Python
-- Carga horária: 2 horas
-- Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Trabalhando com Listas em Python
-- Carga horária: 1 hora
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Conhecendo Tuplas em Python
-- Carga horária: 1 hora
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Exlorando Conjuntos em Python
-- Carga horária: 1 hora
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Aprendendo a Utilizar Dicionários em Python
-- Carga horária: 1 hora
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Dominando Funções Python
-- Carga horária: 1 hora
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [X] [Desafio de Projeto] Explorando IA Generativa em um Pipeline de ETL com Python
-- Carga horária: 2 horas
-- Nível: Avançado
-- Data de Conclusão: 25/08/2023
-- Observações: [Projeto-Pipeline-IA-Generativa](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/01_Introducao-a-Ci%C3%AAncia-de-Dados-e-Python/Santander_Bootcamp.ipynb)
+|Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
+|---|---|---|---|---|---|
+|Curso|Ambiente de Desenvolvimento e Primeiros Passos com Python|1 hora|Básico|09/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Curso|Conhecendo a Linguagem de Programação Python|2 horas|Básico|09/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Curso|Tipos de Operadores com Python|2 horas|Básico|10/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Curso|Estruturas Condicionais e de Repetição em Python|2 horas|Básico|10/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Curso|Manipulando Strings com Python|2 horas|Básico|10/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Curso|Trabalhando com Listas em Python|1 hora|Intermediário|11/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Curso|Conhecendo Tuplas em Python|1 hora|Intermediário|11/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Curso|Exlorando Conjuntos em Python|1 hora|Intermediário|11/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Curso|Aprendendo a Utilizar Dicionários em Python|1 hora|Intermediário|11/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Curso|Dominando Funções Python|1 hora|Intermediário|11/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Desafio de Projeto|Explorando IA Generativa em um Pipeline de ETL com Python|2 horas|Avançado|25/08/2023|[Projeto-Pipeline-IA-Generativa](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/01_Introducao-a-Ci%C3%AAncia-de-Dados-e-Python/Santander_Bootcamp.ipynb)|
+
 ### Resolvendo Seus Primeiros Desafios de Código
-- [X] [Curso] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 25/08/2023
-- Observações: ***
-- [X] [Desafio de Código] Desafio Python: Equilibrando Saldo
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 25/08/2023
-- Observações: [Desafios-Python-Equilibrando-Saldo.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-Equilibrando-Saldo.py)
-- [X] [Desafio de Código] Desafio Python: Organizando seus Ativos
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 25/08/2023
-- Observações: [Desafios-Python-Organizando-Seus-Ativos.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Deasfios-Python-Organizando-Seus-Ativos.py)
-- [X] [Desafio de Código] Desafio Python: Condicional Rico
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 25/08/2023
-- Observações: [Desafios-Python-Condicionalmente-Rico.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-Condicionalmente-Rico.py)
-- [X] [Desafio de Código] Desafio Python: Juros Compostos
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 25/08/2023
-- Observações: [Desafios-Python-Juros-Compostos.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-Juros-Compostos.py)
-- [X] [Desafio de Código] Desafio Python: O Grande Depósito
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 25/08/2023
-- Observações: [Desafios-Python-O-Grande-Proposito.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-O-Grande-Proposito.py)
+|Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
+|---|---|---|---|---|---|
+|Curso|Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional|1 hora|Básico|25/08/2023|-|
+|Desafios de Código|Desafio Python: Equilibrando Saldo|1 hora|Básico|25/08/2023|[Desafios-Python-Equilibrando-Saldo.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-Equilibrando-Saldo.py)|
+|Desafios de Código|Desafio Python: Organizando seus Ativos|1 hora|Básico|25/08/2023|[Desafios-Python-Organizando-Seus-Ativos.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Deasfios-Python-Organizando-Seus-Ativos.py)|
+|Desafios de Código|Desafio Python: Condicional Rico|1 hora|Básico|25/08/2023|[Desafios-Python-Condicionalmente-Rico.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-Condicionalmente-Rico.py)|
+|Desafios de Código|Desafio Python: Juros Compostos|1 hora|Básico|25/08/2023|[Desafios-Python-Juros-Compostos.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-Juros-Compostos.py)|
+|Desafios de Código|Desafio Python: O Grande Depósito|1 hora|Básico|25/08/2023|[Desafios-Python-O-Grande-Proposito.py](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/02_Resolvendo-Seus-Primeiros-Desafios-de-Codigo/Desafios-Python-O-Grande-Proposito.py)|
+
 ### Primeiros Passos em SQL e NoSQL
-- [X] [Curso] Introdução a Banco de Dados Relacionais (SQL)
-- Carga horária: 3 horas
-- Nível: Intermediário
-- Data de Conclusão: 03/09/2023
-- Observações: [Modelagem-Dados-Relacional](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Modelagem-Dados-Relacionais.sql) / [Normalizacao-Dados](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Normalizar-Dados.sql) / [Consultas-Avancadas](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Consultas-Avancadas.sql)
-- [ ] [Curso] Introdução a Banco de Dados NoSQL
-- Carga horária: 3 horas
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
+|Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
+|---|---|---|---|---|---|
+|Curso|Introdução a Banco de Dados Relacionais (SQL)|3 horas|Intermediário|03/09/2023|[Modelagem-Dados-Relacional](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Modelagem-Dados-Relacionais.sql) / [Normalizacao-Dados](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Normalizar-Dados.sql) / [Consultas-Avancadas](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Consultas-Avancadas.sql)|
+|Curso|Introdução a Banco de Dados NoSQL|3 horas|Intermediário|06/09/2023|-|
+
 ### Visualização e Análise de Dados com Power BI
-- [ ] [Curso] Fundamentos de Business Intelligence (BI)
-- Carga horária: 2 horas
-- Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Introdução a Análise de Dados com SQL
-- Carga horária: 3 horas
-- Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Fundamentos Teóricos Sobre ETL
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Primeiros Passos com Power BI
-- Carga horária: 3 horas
-- Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Trabalhando com Visuais no Power BI
-- Carga horária: 4 horas
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Fundamentos de BI: KPIs e Métricas
-- Carga horária: 1 hora
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Criando Dashboard Interativos com Power BI
-- Carga horária: 2 horas
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Desafio de Projeto] Criando um Relatório de Vendas Elegante com Power BI
-- Carga horária: 1 hora
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Coleta e Extração de Dados com Power BI
-- Carga horária: 3 horas
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Limpeza e Transformação de Dados com Power BI
-- Carga horária: 2 horas
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Desafio de Projeto] Processando e Transformando Dados com Power BI
-- Carga horária: 1 hora
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
+|Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
+|---|---|---|---|---|---|
+|Curso|Fundamentos de Business Intelligence (BI)|2 horas|Básico|dd/mm/aaaa|-|
+|Curso|Introdução a Análise de Dados com SQL|3 horas|Básico|dd/mm/aaaa|-|
+|Curso|Fundamentos Teóricos Sobre ETL|1 hora|Básico|dd/mm/aaaa|-|
+|Curso|Primeiros Passos com Power BI|3 horas|Básico|dd/mm/aaaa|-|
+|Curso|Trabalhando com Visuais no Power BI|4 horas|Intermediário|dd/mm/aaaa|-|
+|Curso|Fundamentos de BI: KPIs e Métricas|1 hora|Intermediário|dd/mm/aaaa|-|
+|Curso|Criando Dashboard Interativos com Power BI|2 horas|Intermediário|dd/mm/aaaa|-|
+|Desafio de Projeto|Criando um Relatório de Vendas Elegante com Power BI|1 hora|Intermediário|dd/mm/aaaa|-|
+|Curso|Coleta e Extração de Dados com Power BI|3 horas|Intermediário|dd/mm/aaaa|-|
+|Curso|Limpeza e Transformação de Dados com Power BI|2 horas|Intermediário|dd/mm/aaaa|-|
+|Desafio de Projeto|Processando e Transformando Dados com Power BI|1 hora|Intermediário|dd/mm/aaaa|-|
+
 ### Fundamentos e Técnicas de Machine Learning
-- [ ] [Curso] Introdução ao Machine Learning
-- Carga horária: 2 horas
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Métodos de Machine Learning Bioinspirados
-- Carga horária: 1 hora
-- Nível: Avançado
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Redes Neurais Artificiais
-- Carga horária: 1 hora
-- Nível: Avançado
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Algoritmos Genéticos
-- Carga horária: 2 horas
-- Nível: Avançado
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Algoritmos de SVM (Support Vector Machine)
-- Carga horária: 1 hora
-- Nível: Avançado
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Classificação de Problemas: Explorando Datasets
-- Carga horária: 1 hora
-- Nível: Avançado
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Linguagens de Programação para Machine Learning
-- Carga horária: 1 hora
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Python para Machine Learning na Prática
-- Carga horária: 3 horas
-- Nível: Intermediário
-- Data de Conclusão: 
-- Observações: ***
-- [ ] [Curso] Avalie este Bootcamp
-- Carga horária: 1 hora
-- Nível: Básico
-- Data de Conclusão: 
-- Observações: ***
+|Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
+|---|---|---|---|---|---|
+|Curso|Introdução ao Machine Learning|2 horas|Intermediário|dd/mm/aaaa|-|
+|Curso|Métodos de Machine Learning Bioinspirados|1 hora|Avançado|dd/mm/aaaa|-|
+|Curso|Redes Neurais Artificiais|1 hora|Avançado|dd/mm/aaaa|-|
+|Curso|Algoritmos Genéticos|2 horas|Avançado|dd/mm/aaaa|-|
+|Curso|Algoritmos de SVM (Support Vector Machine)|1 hora|Avançado|dd/mm/aaaa|-|
+|Curso|Classificação de Problemas: Explorando Datasets|1 hora|Avançado|dd/mm/aaaa|-|
+|Curso|Linguagens de Programação para Machine Learning|1 hora|Intermediário|dd/mm/aaaa|-|
+|Curso|Python para Machine Learning na Prática|3 horas|Intermediário|dd/mm/aaaa|-|
 
 ## Estatísticas de Atividades
 ### Prepare-se Para a Jornada
