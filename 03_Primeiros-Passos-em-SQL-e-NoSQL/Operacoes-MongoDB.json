@@ -1,0 +1,182 @@
+// Aula 1: Operações no MongoDB
+
+// Criando um Database
+use viagens;
+
+// Criando Collection
+db.createCollection("usuarios")
+db.createCollection("destinos")
+db.createCollection("reservas")
+
+// Inserir um Documento faz a criação direta de uma Collection
+db.usuarios_novo.insertOne({});
+
+// Inserir o primeiro Documento na Collection 'usuarios'
+db.usuarios.insertOne(
+	{
+	"nome": "Luis Gomes",
+	"idade": 25,
+	"dataNascimento": "1998-03-12",
+	"email": "luis12osg@gmail.com",
+	"endereco": "Rua A, 123 - Setembro, Sete Lagoas/MG"
+	});
+
+// Inserir Documentos em massa na Collection 'usuarios'
+db.usuarios.insertMany([
+	{   
+	"nome": "João Silva",
+        "idade": 33,
+	"dataNascimento": "1990-05-15",
+        "email": "joao@email.com",
+        "endereco": "Rua A, 123 - Outubro, Sete Lagoas/MG"
+	},
+	{   
+        "nome": "Maria Santos",
+        "idade": 38,
+	"dataNascimento": "1985-08-22",
+        "email": "maria@email.com",
+        "endereco": "Rua ABC, 321 - Novembro, Sete Lagoas/MG"
+	},
+	{   
+        "nome": "Pedro Souza",
+        "idade": 23,
+	"dataNascimento": "1998-02-10",
+        "email": "pedro@email.com",
+        "endereco": "Rua BC, 21 - Dezembro, Sete Lagoas/MG"
+	},
+
+]);
+
+// Inserir o primeiro Documento na Collection 'destinos'
+db.destinos.insertOne({"nome":"Gruta Rei do Mato", "descricao":"Ponto turístico"})
+
+// Inserir mais Documentos na coleção 'usuarios'
+db.usuarios.insertMany([
+	{
+	nome: "Luis",
+	idade: 20,
+	cidade: "São Paulo",
+	estado: "SP",
+	endereco: {
+		rua: "Rua Circular",
+		numero: 9923,
+		cidade: "São Paulo",
+		estado: "SP"
+	}
+	},
+	{
+	nome: "Vinicius",
+	idade: 28,
+	cidade: "Belo Horizonte",
+	estado: "MG",
+	endereco:
+		{
+		rua: "Rua Quadrada",
+		numero: 1301,
+		cidade: "Belo Horizonte",
+		estado: "MG"
+		}
+	}]);
+  
+// Find
+db.usuarios.find({});
+db.usuarios.find({"nome": "Luis"});
+db.usuarios.findOne({"nome": "Luis"});
+db.usuarios.findOneAndUpdate({ nome: "Pedro" }, { $set: { idade: 24 } });
+db.usuarios.findOneAndDelete({ nome: "Luis" });
+
+// Update
+db.usuarios.updateOne(
+	{nome: "Luis"},
+	{$set: {idade: 26}}
+);
+
+db.usuarios.updateMany(
+  {cidade: "São Paulo"},
+  {$set: {estado: "SP"}}
+);
+db.usuarios.replaceOne(
+	{nome: "João"},
+	{
+	nome: "John",
+	idade: 27,
+	cidade: "São Paulo",
+	estado: "SP",
+	endereco:
+		{
+		rua: "Avenida Principal",
+		numero: 123
+		}
+	}
+);
+
+// Operadores
+// Operadores de Update
+// $set - Definir o valor de um campo específico
+db.usuarios.updateOne({ nome: "João" }, { $set: { idade: 26 } });
+
+// $inc - Incrementar o valor de um campo numérico
+db.usuarios.updateOne({ nome: "João" }, { $inc: { idade: 1 } });
+
+// $rename - Renomear um campo existente
+db.usuarios.updateOne({ nome: "João" }, { $rename: { "endereco.rua": "endereco.nomeRua" } });
+
+// $unset - Remover um campo específico de um Documento
+db.usuarios.updateOne({ nome: "João" }, { $unset: { endereco: "" } });
+
+//  Operadores de Delete
+// deleteOne() - Excluir o primeiro Documento que corresponde ao filtro especificado
+db.usuarios.deleteOne({nome: "João" });
+
+// deleteMany() - Excluir todos os Documentos que correspondem ao filtro especificado
+db.usuarios.deleteMany({cidade: "São Paulo"});
+
+
+// Aula 2: Consultas Simples
+
+// Operadores Lógicos
+// $and - Realizar uma operação lógica "E"
+db.usuarios.find({ $and: [{ idade: { $gte: 18 } }, { cidade: "São Paulo" }] });
+
+// $or - Realizar uma operação lógica "OU"
+db.usuarios.find({ $or: [{ idade: { $lt: 18 } }, { cidade: "Rio de Janeiro" }] });
+
+// $not - Inverter o resultado de uma expressão lógica
+db.usuarios.find({ idade: { $not: { $eq: 25 } } });
+
+// Operadores de Comparação
+// $eq - Verificar igualdade entre um campo e um valor especificado
+db.usuarios.find({ idade: { $eq: 25 } });
+
+// $ne - Verificar desigualdade entre um campo e um valor especificado
+db.usuarios.find({ idade: { $ne: 30 } });
+
+// $gt - Verificar se um campo é maior que um valor especificado
+db.usuarios.find({ idade: { $gt: 30 } });
+
+// $gte - Verificar se um campo é maior ou igual a um valor especificado
+db.usuarios.find({ idade: { $gte: 30 } });
+
+// $lt - Verificar se um campo é menor que um valor especificado
+db.usuarios.find({ idade: { $lt: 30 } });
+
+// $lte - Verificar se um campo é menor ou igual a um valor especificado
+db.usuarios.find({ idade: { $lte: 30 } });
+
+// $in - Verificar se um campo contém um valor que corresponde a qualquer um dos valores especificados em uma matriz
+db.usuarios.find({ cidade: { $in: ["São Paulo", "Rio de Janeiro"] } });
+
+// $nin - Verificar Documentos em que um campo não contenha nenhum dos valores especificados em uma lista
+db.usuarios.find({ cidade: { $nin: ["São Paulo", "Rio de Janeiro"] } });
+
+// Projeção
+db.usuarios.find({}, {nome: 1, idade: 1})
+
+// Ordenação
+db.usuarios.find().sort({idade: 1})
+
+// Limitação
+db.usuarios.find().limit(5)
+
+// Paginação
+db.usuarios.find().skip(10).limit(5)
