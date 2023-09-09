@@ -59,7 +59,7 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 |Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
 |---|---|---|---|---|---|
 |Curso|Introdução a Banco de Dados Relacionais (SQL)|3 horas|Intermediário|03/09/2023|[Modelagem-Dados-Relacional](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Modelagem-Dados-Relacionais.sql) / [Normalizacao-Dados](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Normalizar-Dados.sql) / [Consultas-Avancadas](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Consultas-Avancadas.sql)|
-|Curso|Introdução a Banco de Dados NoSQL|3 horas|Intermediário|06/09/2023|-|
+|Curso|Introdução a Banco de Dados NoSQL|3 horas|Intermediário|09/09/2023|[Operacoes-MongoDB](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/03_Primeiros-Passos-em-SQL-e-NoSQL/Operacoes-MongoDB.json)|
 
 ### Visualização e Análise de Dados com Power BI
 |Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
