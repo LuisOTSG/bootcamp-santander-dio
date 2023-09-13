@@ -64,9 +64,9 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 ### Visualização e Análise de Dados com Power BI
 |Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
 |---|---|---|---|---|---|
-|Curso|Fundamentos de Business Intelligence (BI)|2 horas|Básico|dd/mm/aaaa|-|
-|Curso|Introdução a Análise de Dados com SQL|3 horas|Básico|dd/mm/aaaa|-|
-|Curso|Fundamentos Teóricos Sobre ETL|1 hora|Básico|dd/mm/aaaa|-|
+|Curso|Fundamentos de Business Intelligence (BI)|2 horas|Básico|09/09/2023|-|
+|Curso|Introdução a Análise de Dados com SQL|3 horas|Básico|10/09/2023|-|
+|Curso|Fundamentos Teóricos Sobre ETL|1 hora|Básico|12/09/2023|-|
 |Curso|Primeiros Passos com Power BI|3 horas|Básico|dd/mm/aaaa|-|
 |Curso|Trabalhando com Visuais no Power BI|4 horas|Intermediário|dd/mm/aaaa|-|
 |Curso|Fundamentos de BI: KPIs e Métricas|1 hora|Intermediário|dd/mm/aaaa|-|
