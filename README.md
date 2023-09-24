@@ -68,10 +68,10 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 |Curso|Introdução a Análise de Dados com SQL|3 horas|Básico|10/09/2023|-|
 |Curso|Fundamentos Teóricos Sobre ETL|1 hora|Básico|12/09/2023|-|
 |Curso|Primeiros Passos com Power BI|3 horas|Básico|16/09/2023|[Dashboard-Diabetes](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/04_Visualizacao-e-Analise-de-Dados-com-Power-BI/reports/Dashboard-Diabetes.pbix) / [Dashboard-Diabetes-ppt](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/04_Visualizacao-e-Analise-de-Dados-com-Power-BI/reports/Dashboard-Diabetes-PowerPoint.pptx) - [Dashboard-Financial-Sample](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/04_Visualizacao-e-Analise-de-Dados-com-Power-BI/reports/Dashboard-Financial-Sample.pbix)|
-|Curso|Trabalhando com Visuais no Power BI|4 horas|Intermediário|dd/mm/aaaa|-|
-|Curso|Fundamentos de BI: KPIs e Métricas|1 hora|Intermediário|dd/mm/aaaa|-|
-|Curso|Criando Dashboard Interativos com Power BI|2 horas|Intermediário|dd/mm/aaaa|-|
-|Desafio de Projeto|Criando um Relatório de Vendas Elegante com Power BI|1 hora|Intermediário|dd/mm/aaaa|-|
+|Curso|Trabalhando com Visuais no Power BI|4 horas|Intermediário|18/09/2023|-|
+|Curso|Fundamentos de BI: KPIs e Métricas|1 hora|Intermediário|18/09/2023|-|
+|Curso|Criando Dashboard Interativos com Power BI|2 horas|Intermediário|22/09/2023|-|
+|Desafio de Projeto|Criando um Relatório de Vendas Elegante com Power BI|1 hora|Intermediário|23/09/2023|[Dashboard-Financial-Sample-Projeto](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/04_Visualizacao-e-Analise-de-Dados-com-Power-BI/reports/Dashboard-Financial-Sample-Projeto.pbix)|
 |Curso|Coleta e Extração de Dados com Power BI|3 horas|Intermediário|dd/mm/aaaa|-|
 |Curso|Limpeza e Transformação de Dados com Power BI|2 horas|Intermediário|dd/mm/aaaa|-|
 |Desafio de Projeto|Processando e Transformando Dados com Power BI|1 hora|Intermediário|dd/mm/aaaa|-|
