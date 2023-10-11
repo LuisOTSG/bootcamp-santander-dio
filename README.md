@@ -72,7 +72,7 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 |Curso|Fundamentos de BI: KPIs e Métricas|1 hora|Intermediário|18/09/2023|-|
 |Curso|Criando Dashboard Interativos com Power BI|2 horas|Intermediário|22/09/2023|-|
 |Desafio de Projeto|Criando um Relatório de Vendas Elegante com Power BI|1 hora|Intermediário|23/09/2023|[Dashboard-Financial-Sample-Projeto](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/04_Visualizacao-e-Analise-de-Dados-com-Power-BI/reports/Dashboard-Financial-Sample-Projeto.pbix)|
-|Curso|Coleta e Extração de Dados com Power BI|3 horas|Intermediário|dd/mm/aaaa|-|
+|Curso|Coleta e Extração de Dados com Power BI|3 horas|Intermediário|10/10/2023|-|
 |Curso|Limpeza e Transformação de Dados com Power BI|2 horas|Intermediário|dd/mm/aaaa|-|
 |Desafio de Projeto|Processando e Transformando Dados com Power BI|1 hora|Intermediário|dd/mm/aaaa|-|
 
