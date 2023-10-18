@@ -85,122 +85,86 @@ Gosto também de utilizar o Anki, um método de estudos utilizando Flashcards, e
 |Curso|Algoritmos Genéticos|2 horas|Avançado|dd/mm/aaaa|-|
 |Curso|Algoritmos de SVM (Support Vector Machine)|1 hora|Avançado|dd/mm/aaaa|-|
 |Curso|Classificação de Problemas: Explorando Datasets|1 hora|Avançado|dd/mm/aaaa|-|
-|Curso|Linguagens de Programação para Machine Learning|1 hora|Intermediário|dd/mm/aaaa|-|
-|Curso|Python para Machine Learning na Prática|3 horas|Intermediário|dd/mm/aaaa|-|
+|Curso|Linguagens de Programação para Machine Learning|1 hora|Intermediário|17/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
+|Curso|Python para Machine Learning na Prática|3 horas|Intermediário|17/10/2022|Curso concluído durante o Bootcamp Geração Tech UnimedBH|
 
 ## Estatísticas de Atividades
 ### Prepare-se Para a Jornada
 **Total Geral**
-- x cursos
-- x desafios
-- x horas
+- 8 cursos
+- 1 desafio
+- 6 horas
 
 **Por Nível**
 
 _Nível Básico_:
-- x cursos
-- x desafios
-- x horas
-_Nível Intermediário_:
-- x cursos
-- x desafios
-- x horas
-_Nível Avançado_:
-- x cursos
-- x desafios
-- x horas
+- 7 cursos
+- 1 desafios
+- 6 horas
+
 ### Introdução à Ciência de Dados e Python
-- x cursos
-- x desafios
-- x horas
+- 10 cursos
+- 1 desafio
+- 16 horas
 
 **Por Nível**
 
 _Nível Básico_:
-- x cursos
-- x desafios
-- x horas
+- 5 cursos
+- 9 horas
 _Nível Intermediário_:
-- x cursos
-- x desafios
-- x horas
+- 5 cursos
+- 5 horas
 _Nível Avançado_:
-- x cursos
-- x desafios
-- x horas
+- 1 desafio
+- 2 horas
+
 ### Resolvendo Seus Primeiros Desafios de Código
-- x cursos
-- x desafios
-- x horas
+- 1 curso
+- 5 desafios
+- 6 horas
 
 **Por Nível**
 
 _Nível Básico_:
-- x cursos
-- x desafios
-- x horas
-_Nível Intermediário_:
-- x cursos
-- x desafios
-- x horas
-_Nível Avançado_:
-- x cursos
-- x desafios
-- x horas
+- 1 curso
+- 5 desafios
+- 6 horas
+
 ### Primeiros Passos em SQL e NoSQL
-- x cursos
-- x desafios
-- x horas
+- 2 cursos
+- 6 horas
 
 **Por Nível**
 
-_Nível Básico_:
-- x cursos
-- x desafios
-- x horas
 _Nível Intermediário_:
-- x cursos
-- x desafios
-- x horas
-_Nível Avançado_:
-- x cursos
-- x desafios
-- x horas
+- 2 cursos
+- 6 horas
+
 ### Visualização e Análise de Dados com Power BI
-- x cursos
-- x desafios
-- x horas
+- 9 cursos
+- 2 desafios
+- 23 horas
 
 **Por Nível**
 
 _Nível Básico_:
-- x cursos
-- x desafios
-- x horas
+- 4 cursos
+- 9 horas
 _Nível Intermediário_:
-- x cursos
-- x desafios
-- x horas
-_Nível Avançado_:
-- x cursos
-- x desafios
-- x horas
+- 5 cursos
+- 2 desafios
+- 14 horas
+
 ### Fundamentos e Técnicas de Machine Learning
-- x cursos
-- x desafios
-- x horas
+- 8 cursos
+- 12 horas
 
 **Por Nível**
 
-_Nível Básico_:
-- x cursos
-- x desafios
-- x horas
 _Nível Intermediário_:
-- x cursos
-- x desafios
-- x horas
+- 3 cursos
+- 6 horas
 _Nível Avançado_:
-- x cursos
-- x desafios
-- x horas
+- 5 cursos
+- 6 horas
