@@ -112,9 +112,11 @@ _Nível Básico_:
 _Nível Básico_:
 - 5 cursos
 - 9 horas
+
 _Nível Intermediário_:
 - 5 cursos
 - 5 horas
+
 _Nível Avançado_:
 - 1 desafio
 - 2 horas
@@ -151,6 +153,7 @@ _Nível Intermediário_:
 _Nível Básico_:
 - 4 cursos
 - 9 horas
+
 _Nível Intermediário_:
 - 5 cursos
 - 2 desafios
@@ -165,6 +168,7 @@ _Nível Intermediário_:
 _Nível Intermediário_:
 - 3 cursos
 - 6 horas
+  
 _Nível Avançado_:
 - 5 cursos
 - 6 horas
