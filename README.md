@@ -62,7 +62,7 @@
 |Desafio de Projeto|Criando um Relatório de Vendas Elegante com Power BI|1 hora|Intermediário|23/09/2023|[Dashboard-Financial-Sample-Projeto](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/04_Visualizacao-e-Analise-de-Dados-com-Power-BI/reports/Dashboard-Financial-Sample-Projeto.pbix)|
 |Curso|Coleta e Extração de Dados com Power BI|3 horas|Intermediário|10/10/2023|-|
 |Curso|Limpeza e Transformação de Dados com Power BI|2 horas|Intermediário|18/10/2023|[Limpeza-Transformação](https://github.com/LuisOTSG/bootcamp-santander-dio/tree/main/04_Visualizacao-e-Analise-de-Dados-com-Power-BI/reports/clear-transformation)|
-|Desafio de Projeto|Processando e Transformando Dados com Power BI|1 hora|Intermediário|2/10/2023|-|
+|Desafio de Projeto|Processando e Transformando Dados com Power BI|1 hora|Intermediário|22/10/2023|-|
 
 ### Fundamentos e Técnicas de Machine Learning
 |Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
