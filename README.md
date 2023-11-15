@@ -6,7 +6,7 @@
 ### https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python
 
 ## Concluído em **22/10/2023**
-
+![Certificado de Conclusão](https://github.com/LuisOTSG/bootcamp-santander-dio/blob/main/Materiais/certificado-conclusao.png)
 ## Atividades
 ### Prepare-se Para a Jornada
 |Tipo|Atividade|C.H.|Nível|Data Conclusão|Observações|
